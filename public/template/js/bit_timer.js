@@ -42,7 +42,7 @@ $(document).ready(function() {
       seconds = "0" + seconds;
     }
     if (hours == 0) {
-      showDay();
+      // showDay();
       hours = 12;
     }
 
