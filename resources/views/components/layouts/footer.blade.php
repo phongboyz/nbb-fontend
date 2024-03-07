@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                     <div class="ne_footer_first_section">
-                        <img src="{{asset('template/images/header/logo.png')}}" alt="img" class="img-responsive">
+                        <img src="{{asset($app_profile->logo)}}" alt="img" class="img-responsive">
                         <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                             <br>
                             <br>This is Photoshop's version of Lorem Ipsum</p>
